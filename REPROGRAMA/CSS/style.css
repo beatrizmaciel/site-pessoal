@@ -105,6 +105,10 @@ a {
     font-size: 1.6rem;
 }
 
+a:link {
+     color: #df5442;
+}
+
 /*redes sociais*/
 .redes-sociais__link {
     display: inline-block;
