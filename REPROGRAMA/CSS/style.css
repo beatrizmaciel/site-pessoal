@@ -101,8 +101,12 @@ a {
 
 .sobre-habilidades__lista {
     padding-left: 2rem;
-    line-height: 2;
+    line-height: 1.5;
     font-size: 1.6rem;
+}
+
+.sobre-habilidades__programacao__lista {
+    line-height: 1.5;
 }
 
 a:link {
